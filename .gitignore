@@ -1,0 +1,6 @@
+*.idea
+*.class
+*.log
+out
+*.DS_store
+BitTorrents/src/log
