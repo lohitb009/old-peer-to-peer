@@ -2,3 +2,4 @@
 *.class
 *.log
 out
+*.DS_store
