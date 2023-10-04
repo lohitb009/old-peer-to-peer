@@ -1,0 +1,205 @@
+1637658536050: Peer 1003 has the preferred neighbors null,null
+1637658536120: Peer 1003 has the optimistically unchoked neighbor null
+Listening to..1003
+Listening to..1003
+1637658536128: Peer 1003 makes connection to Peer 1001
+1637658536143: Peer 1003 makes connection to Peer 1002
+1637658537172: Peer 1003 makes connection to Peer 1004
+1637658538145: Peer 1003 received 'have' message from 1001
+1637658538150: Peer 1003 received 'have' message from 1002
+1637658538156: Peer 1003 received the ‘not interested’ message 1001
+1637658538166: Peer 1003 received the ‘not interested’ message 1004
+1637658538177: Peer 1003 received the ‘not interested’ message 1002
+Listening to..1003
+1637658539151: Peer 1003 makes connection to Peer 1005
+1637658539165: Peer 1003 is unchoked by 1005
+1637658540305: Peer 1003 received the ‘not interested’ message 1005
+1637658540332: Peer 1003 received the ‘not interested’ message 1005
+1637658546800: Peer 1003 has the preferred neighbors 1001,1004
+1637658546823: Peer 1003 is unchoked by 1004
+1637658546843: Peer 1003 received 'have' message from 1004
+1637658547849: Peer 1003 received the ‘not interested’ message 1004
+1637658561983: Peer 1003 is choked by 1004
+1637658567018: Peer 1003 has the preferred neighbors 1001,1002
+1637658567026: Peer 1003 has the optimistically unchoked neighbor 1005
+1637658567047: Peer 1003 is unchoked by 1004
+1637658570080: Peer 1003 received 'have' message from 1002
+1637658572093: Peer 1003 received the ‘not interested’ message 1004
+1637658576120: Peer 1003 is unchoked by 1002
+1637658577139: Peer 1003 has the preferred neighbors 1005,1002
+1637658579114: Peer 1003 received 'have' message from 1005
+1637658579125: Peer 1003 is choked by 1004
+1637658580130: Peer 1003 is unchoked by 1005
+1637658580145: Peer 1003 is unchoked by 1004
+1637658581180: Peer 1003 has the preferred neighbors 1004,1005
+1637658581197: Peer 1003 has the optimistically unchoked neighbor 1002
+1637658581209: Peer 1003 received the ‘not interested’ message 1005
+1637658582210: Peer 1003 received 'have' message from 1002
+1637658583216: Peer 1003 received 'have' message from 1005
+1637658586245: Peer 1003 has the preferred neighbors 1001,1004
+1637658586261: Peer 1003 received the ‘not interested’ message 1004
+1637658587470: Peer 1003 received 'have' message from 1004
+1637658588517: Peer 1003 is choked by 1004
+1637658589527: Peer 1003 is unchoked by 1004
+1637658591526: Peer 1003 has the preferred neighbors 1005,1002
+1637658593562: Peer 1003 received 'have' message from 1004
+1637658593577: Peer 1003 is unchoked by 1002
+1637658595582: Peer 1003 is choked by 1004
+1637658595594: Peer 1003 received 'have' message from 1005
+1637658595602: Peer 1003 is unchoked by 1004
+1637658597608: Peer 1003 received 'have' message from 1002
+1637658598613: Peer 1003 received the ‘not interested’ message 1004
+1637658601632: Peer 1003 has the preferred neighbors 1004,1002
+1637658601640: Peer 1003 has the optimistically unchoked neighbor 1001
+1637658601650: Peer 1003 is unchoked by 1004
+1637658601814: Peer 1003 has downloaded the piece 662 from 1005
+1637658601954: Peer 1003 has downloaded the piece 174 from 1005
+1637658601967: Peer 1003 received the ‘not interested’ message 1002
+1637658605844: Peer 1003 is choked by 1004
+1637658606852: Peer 1003 is unchoked by 1004
+1637658607862: Peer 1003 received the ‘not interested’ message 1004
+1637658610873: Peer 1003 received 'have' message from 1002
+1637658611946: Peer 1003 has the preferred neighbors 1001,1002
+1637658611962: Peer 1003 has the optimistically unchoked neighbor 1004
+1637658612990: Peer 1003 received 'have' message from 1004
+1637658613977: Peer 1003 received the ‘not interested’ message 1004
+1637658614982: Peer 1003 is unchoked by 1005
+1637658615003: Peer 1003 is unchoked by 1002
+1637658617014: Peer 1003 has the preferred neighbors 1004,1005
+1637658617035: Peer 1003 is choked by 1004
+1637658618034: Peer 1003 received the ‘not interested’ message 1005
+1637658618050: Peer 1003 is unchoked by 1004
+1637658621014: Peer 1003 received 'have' message from 1005
+1637658623025: Peer 1003 received the ‘interested’ message from 1004
+1637658625052: Peer 1003 is choked by 1005
+1637658625070: Peer 1003 received 'have' message from 1002
+1637658625081: Peer 1003 is unchoked by 1005
+1637658626075: Peer 1003 is choked by 1002
+1637658626081: Peer 1003 is choked by 1004
+1637658627090: Peer 1003 has the preferred neighbors 1001,1002
+1637658627101: Peer 1003 has the optimistically unchoked neighbor 1004
+1637658628400: Peer 1003 has downloaded the piece 301 from 1005
+1637658629488: Peer 1003 has downloaded the piece 700 from 1005
+1637658629495: Peer 1003 received the ‘interested’ message from 1002
+1637658630290: Peer 1003 has downloaded the piece 705 from 1005
+1637658631371: Peer 1003 has the preferred neighbors 1004,1005
+1637658631449: Peer 1003 has downloaded the piece 587 from 1005
+1637658634246: Peer 1003 received 'have' message from 1004
+1637658635151: Peer 1003 received the ‘not interested’ message 1005
+1637658636165: Peer 1003 is unchoked by 1002
+1637658636182: Peer 1003 received the ‘interested’ message from 1004
+1637658637191: Peer 1003 has the preferred neighbors 1001,1002
+1637658638215: Peer 1003 received 'have' message from 1005
+1637658640355: Peer 1003 received 'have' message from 1002
+1637658640363: Peer 1003 is unchoked by 1004
+1637658641372: Peer 1003 has the preferred neighbors 1004,1005
+1637658641382: Peer 1003 has the optimistically unchoked neighbor 1002
+1637658643395: Peer 1003 is unchoked by 1002
+1637658644412: Peer 1003 is choked by 1004
+1637658644424: Peer 1003 is unchoked by 1004
+1637658646428: Peer 1003 has the preferred neighbors 1004,1005
+1637658648444: Peer 1003 received 'have' message from 1005
+1637658648459: Peer 1003 received 'have' message from 1004
+1637658650463: Peer 1003 received the ‘not interested’ message 1002
+1637658652471: Peer 1003 received 'have' message from 1002
+1637658652487: Peer 1003 is choked by 1004
+1637658656495: Peer 1003 has the preferred neighbors 1004,1005
+1637658656508: Peer 1003 has the optimistically unchoked neighbor 1001
+1637658656523: Peer 1003 received 'have' message from 1005
+1637658657526: Peer 1003 is unchoked by 1004
+1637658660530: Peer 1003 received the ‘interested’ message from 1004
+1637658663539: Peer 1003 received the ‘not interested’ message 1002
+1637658675888: Peer 1003 is unchoked by 1005
+1637658676930: Peer 1003 received 'have' message from 1004
+1637658676943: Peer 1003 received 'have' message from 1005
+1637658676949: Peer 1003 is unchoked by 1002
+1637658677021: Peer 1003 received the ‘interested’ message from 1004
+1637658687024: Peer 1003 is unchoked by 1004
+1637658687038: Peer 1003 received 'have' message from 1004
+1637658693295: Peer 1003 is unchoked by 1002
+1637658696266: Peer 1003 has the preferred neighbors 1001,1002
+1637658696279: Peer 1003 has the optimistically unchoked neighbor 1004
+1637658696291: Peer 1003 received 'have' message from 1004
+1637658698306: Peer 1003 received the ‘interested’ message from 1004
+1637658700288: Peer 1003 received the ‘not interested’ message 1002
+1637658701313: Peer 1003 has the preferred neighbors 1004,1001
+1637658701326: Peer 1003 has the optimistically unchoked neighbor 1002
+1637658706382: Peer 1003 has the preferred neighbors 1001,1002
+1637658709449: Peer 1003 is unchoked by 1005
+1637658711480: Peer 1003 received the ‘not interested’ message 1004
+1637658712497: Peer 1003 is unchoked by 1002
+1637658714485: Peer 1003 is choked by 1005
+1637658716511: Peer 1003 has the preferred neighbors 1005,1002
+1637658716524: Peer 1003 has the optimistically unchoked neighbor 1001
+1637658717540: Peer 1003 received the ‘not interested’ message 1002
+1637658720497: Peer 1003 received 'have' message from 1002
+1637658721508: Peer 1003 received the ‘not interested’ message 1005
+1637658724580: Peer 1003 is unchoked by 1004
+1637658727596: Peer 1003 received 'have' message from 1005
+1637658728614: Peer 1003 is unchoked by 1002
+1637658728624: Peer 1003 received 'have' message from 1004
+1637658732610: Peer 1003 received 'have' message from 1002
+1637658737656: Peer 1003 is choked by 1004
+1637658739633: Peer 1003 is unchoked by 1002
+1637658742651: Peer 1003 received the ‘not interested’ message 1002
+1637658745690: Peer 1003 is choked by 1002
+1637658745707: Peer 1003 is unchoked by 1002
+1637658747712: Peer 1003 received 'have' message from 1002
+1637658751664: Peer 1003 has the preferred neighbors 1001,1005
+1637658751675: Peer 1003 has the optimistically unchoked neighbor 1004
+1637658754672: Peer 1003 received the ‘not interested’ message 1004
+1637658755686: Peer 1003 is unchoked by 1002
+1637658758723: Peer 1003 received 'have' message from 1005
+1637658760754: Peer 1003 is choked by 1002
+1637658761771: Peer 1003 has the preferred neighbors 1001,1005
+1637658761783: Peer 1003 has the optimistically unchoked neighbor 1004
+1637658761792: Peer 1003 is unchoked by 1002
+1637658763780: Peer 1003 received the ‘not interested’ message 1002
+1637658764809: Peer 1003 is unchoked by 1005
+1637658766846: Peer 1003 has the preferred neighbors 1004,1001
+1637658767734: Peer 1003 received 'have' message from 1005
+1637658767744: Peer 1003 is unchoked by 1004
+1637658768748: Peer 1003 is unchoked by 1002
+1637658771754: Peer 1003 received the ‘not interested’ message 1005
+1637658773768: Peer 1003 received the ‘not interested’ message 1002
+1637658775787: Peer 1003 is unchoked by 1002
+1637658776814: Peer 1003 has the preferred neighbors 1004,1005
+1637658776828: Peer 1003 has the optimistically unchoked neighbor 1002
+1637658778873: Peer 1003 received the ‘not interested’ message 1002
+1637658781862: Peer 1003 has the preferred neighbors 1001,1004
+1637658781874: Peer 1003 received 'have' message from 1005
+1637658785917: Peer 1003 received the ‘not interested’ message 1002
+1637658787923: Peer 1003 is unchoked by 1002
+1637658792944: Peer 1003 received the ‘not interested’ message 1002
+1637658792955: Peer 1003 received 'have' message from 1004
+1637658795946: Peer 1003 received the ‘not interested’ message 1004
+1637658801953: Peer 1003 has the preferred neighbors 1004,1005
+1637658801966: Peer 1003 has the optimistically unchoked neighbor 1002
+1637658801976: Peer 1003 received the ‘not interested’ message 1002
+1637658801988: Peer 1003 is unchoked by 1004
+1637658803967: Peer 1003 received 'have' message from 1004
+1637658807971: Peer 1003 received the ‘not interested’ message 1002
+1637658809957: Peer 1003 received 'have' message from 1005
+1637658811977: Peer 1003 has the preferred neighbors 1004,1001
+1637658811997: Peer 1003 has the optimistically unchoked neighbor 1002
+1637658813017: Peer 1003 received 'have' message from 1004
+1637658816982: Peer 1003 has the preferred neighbors 1004,1001
+1637658820994: Peer 1003 is unchoked by 1002
+1637658822006: Peer 1003 has the preferred neighbors 1005,1002
+1637658822018: Peer 1003 has the optimistically unchoked neighbor 1004
+1637658825046: Peer 1003 is unchoked by 1002
+1637658825058: Peer 1003 is unchoked by 1005
+1637658825073: Peer 1003 received the ‘not interested’ message 1002
+1637658830068: Peer 1003 received 'have' message from 1005
+1637658834076: Peer 1003 received 'have' message from 1001
+1637658835084: Peer 1003 received 'have' message from 1001
+1637658835099: Peer 1003 is unchoked by 1004
+1637658835108: Peer 1003 is choked by 1005
+1637658835122: Peer 1003 is unchoked by 1005
+1637658835130: Peer 1003 is unchoked by 1001
+1637658835142: Peer 1003 received the ‘not interested’ message 1005
+1637658836123: Peer 1003 received 'have' message from 1001
+1637658837113: Peer 1003 received 'have' message from 1001
+1637658837128: Peer 1003 received 'have' message from 1004
+1637658838126: Peer 1003 received 'have' message from 1001
+1637658838144: Peer 1003 received the ‘not interested’ message 1004
